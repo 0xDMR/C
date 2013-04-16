@@ -1,0 +1,8 @@
+Mass Copier, utilizado para fazer copia e renomear arquivo em massa, para
+ser compartilhado em programas que utilizam a rede P2P.
+
+Data: Janeiro de 2013
+
+By \0xDMR - dmrlnx@gmail.com
+
+Use: 0-RUN.bat
